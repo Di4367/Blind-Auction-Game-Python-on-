@@ -1,1 +1,1 @@
-# Blind-Auction-Game-Python-on-
+# Blind-Auction-Game-Python
